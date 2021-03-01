@@ -10,7 +10,7 @@
 2. 龙珠
 3. 斗罗大陆
 
-学过的编程语言有 Javascript
+学过的编程语言有 `Javascript`
 
 ```Javascript
 var a = 1
